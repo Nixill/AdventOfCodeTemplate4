@@ -69,4 +69,6 @@ And the following other extension methods:
 # Other notes
 Note that the folder `AoC/data` is `.gitignore`d. This is intentional, as Advent of Code [requests](https://adventofcode.com/about#faq_copying) that puzzle inputs not be shared. You can remove that if you're committing to a private repository; otherwise, if you need to version-control your input data, you should look into submodules.
 
-If you've used either of my [previous](https://github.com/Nixill/AdventOfCodeTemplate())
+If you've used either of my [previous](https://github.com/Nixill/AdventOfCodeTemplate) [templates](https://github.com/Nixill/AdventOfCodeTemplate3), this new format is *mostly* incompatible with both. However, the data folder structure remains the same as it did in Template3.
+
+Template2 doesn't exist. Don't ask. ☺
